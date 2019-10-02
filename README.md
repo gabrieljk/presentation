@@ -6,6 +6,7 @@ int main(){
 
 printf("TESTE");
 printf("UEMS Nova Andradina");
+printf("Hello");
 return 0;
 
 }
